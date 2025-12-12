@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Stop 4-to_infinity_and_beyond process without using kill/killall
+
+PID=$(pgrep -f 7-highlander)
+[ -n "$PID" ] && sudo pkill -TERM -P "$PID"
