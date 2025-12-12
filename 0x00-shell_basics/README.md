@@ -1,6 +1,6 @@
 # 0x00-shell_basics
 
-This directory contains scripts for Linux shell basics exercises. Each script demonstrates fundamental shell commands and basic file system navigation.
+This directory contains scripts for Linux shell basics exercises. Each script shows essential shell commands.
 
 Scripts included:
 
